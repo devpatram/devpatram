@@ -2,53 +2,56 @@
   <img src="https://raw.githubusercontent.com/devpatram/devpatram/main/Banner.png" alt="Dev V. Patram — Engineering + AI Innovation" width="100%">
 </p>
 
-<h2 align="center">Engineering × AI | Turning Complex Systems into Intelligent Solutions</h2>
+<h2 align="center">Senior Electrical & Solutions Engineer • Doctor of Engineering (AI & Machine Learning) Candidate</h2>
 
 ---
 
-# Dev V. Patram — Engineering, AI & Solutions Portfolio
+### 👋 Hi, I'm Dev V. Patram
 
-Welcome! I'm **Dev V. Patram**, a Senior Electrical & Solutions Engineer and **Doctor of Engineering (AI & Machine Learning) Candidate** at The George Washington University.  
-This portfolio highlights my work bridging **telecom-power systems, automation, and intelligent design**, with hands-on projects in **AI, ML, and engineering optimization.**
+I’m a seasoned **Telecom-Power Systems Engineer** evolving into **AI & Intelligent Systems Engineering** — applying 20+ years of engineering experience toward automation, optimization, and scalable design.
 
-📫 **Contact:** [devpatram@gmail.com](mailto:devpatram@gmail.com) • [LinkedIn](https://www.linkedin.com/in/dev-patram)
+Currently at **EchoStar (Dish Wireless)**, I focus on:
+- Power efficiency and intelligent site-level energy modeling  
+- Network reliability and NEC-compliant designs  
+- Transitioning legacy infrastructure into adaptive, AI-informed systems  
 
----
-
-### ⚡ AI & Engineering Focus Areas
-
-- **AI-Driven Automation:** Designing intelligent assistants that streamline compliance, reporting, and engineering workflows.  
-- **Telecom & Power Systems Optimization:** Building energy-efficient network designs and reliability models for nationwide deployments.  
-- **Data Engineering & Machine Learning:** Developing Python pipelines, ML models, and transformer-based analytics for predictive insights.  
-- **Systems Integration & Scalability:** Applying AI principles to real-world engineering systems with focus on sustainability and resilience.  
-- **Leadership & Technical Enablement:** 20 years of telecom engineering experience mentoring cross-functional technical teams.
+🎓 *Doctor of Engineering (AI & ML)* — The George Washington University (Jan 2026 Cohort)  
+🎯 Focus: AI-driven engineering design, reinforcement learning, and intelligent energy systems  
 
 ---
 
-### 🚀 Featured Projects
-
-- **AICoPilot/** — AI compliance and proposal co-pilot *(prompting + Python automation)*  
-- **WeeklyStatusGem/** — Generates weekly status reports from calendar exports  
-- **Compliance-Automation/** — Templates for policy mapping, RACI, and SOC-style controls  
-- **PowerOptimization/** — Energy efficiency & reliability analysis for telecom networks  
-- **AI-ML-Labs/** — ML labs & experiments (expanding during GWU D.Eng. program)
+### 🧠 Technical Focus Areas
+- AI & ML Systems • Python Automation • Electrical/Power Design  
+- Telecom Energy Optimization • Data Engineering • Reinforcement Learning  
+- Intelligent Infrastructure • Leadership in Technical Innovation  
 
 ---
 
-### 💼 What Hiring Teams Appreciate
-| Focus | Description |
-|-------|--------------|
-| **Evidence** | Working code, documentation, and diagrams demonstrating real results |
-| **Clarity** | Well-defined problems, architectures, and concise READMEs |
-| **Impact** | Performance gains, power savings, or compliance automation outcomes |
-| **Communication** | Clear documentation that conveys *why, how,* and *what* |
+### 🚀 Featured Portfolio
+📂 [**Engineering-AI Portfolio →**](https://github.com/devpatram/engineering-ai-portfolio)  
+Explore my AI and engineering projects:
+- **AICoPilot** – AI compliance and proposal co-pilot  
+- **WeeklyStatusGem** – Automated weekly summaries from calendar events  
+- **Compliance-Automation** – Policy mapping and governance templates  
+- **PowerOptimization** – Energy-efficient network power systems  
+- **AI-ML-Labs** – Experimental ML projects (Doctoral research phase)
 
 ---
 
-### ⚙️ Languages & Tools
-Python • MATLAB • AutoCAD • TensorFlow • Keras • Scikit-learn • GitHub Actions • Draw.io • Power Systems Design
+### 🌐 Connect
+📫 [devpatram@gmail.com](mailto:devpatram@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/dev-patram)  
+💻 [GitHub Portfolio](https://github.com/devpatram/engineering-ai-portfolio)
 
 ---
 
-*Last updated: November 2025*
+### 📊 GitHub Stats
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=devpatram&show_icons=true&theme=default"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpatram&layout=compact&theme=default"/>
+</p>
+
+---
+
+*Always building. Always learning. Always improving.*
 
