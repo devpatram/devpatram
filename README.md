@@ -2,41 +2,43 @@
   <img src="https://raw.githubusercontent.com/devpatram/devpatram/main/Banner.png" alt="Dev V. Patram — Engineering + AI Innovation" width="100%">
 </p>
 
-# 👋 Hi, I'm Dev V. Patram  
-### Senior Electrical & Solutions Engineer | Doctor of Engineering (AI & Machine Learning) Candidate | 20 yrs in Telecom & Power Systems | Building Intelligent Engineering Solutions
-
-Welcome! I’m a seasoned telecom-power systems engineer evolving into the world of **AI, intelligent systems, and engineering leadership**.  
-After 20 years driving nationwide infrastructure for Dish Wireless / EchoStar, I’m now focused on applying **AI & machine learning** to automation, compliance, and system optimization.
+<h2 align="center">Engineering × AI | Turning Complex Systems into Intelligent Solutions</h2>
 
 ---
 
-### 🔭 Current Focus
-- **AI Compliance Co-Pilot (“AICoPilot”)** — an internal assistant for proposal & policy automation  
-- **Weekly Status Gem** — a lightweight AI summarizer for engineering team reports  
-- **Energy Efficiency & Power Reliability** projects across large telecom networks  
-- **Doctor of Engineering (AI & ML)** at The George Washington University (Jan 2026 Cohort)
+# Dev V. Patram — Engineering, AI & Solutions Portfolio
+
+Welcome! I'm **Dev V. Patram**, a Senior Electrical & Solutions Engineer and **Doctor of Engineering (AI & Machine Learning) Candidate** at The George Washington University.  
+This portfolio highlights my work bridging **telecom-power systems, automation, and intelligent design**, with hands-on projects in **AI, ML, and engineering optimization.**
+
+📫 **Contact:** [devpatram@gmail.com](mailto:devpatram@gmail.com) • [LinkedIn](https://www.linkedin.com/in/dev-patram)
 
 ---
 
-### 🧰 Tech & Tools
-`Python`  `Pandas`  `NumPy`  `Matplotlib`  `TensorFlow`  `PyTorch`  
-`AutoCAD`  `draw.io`  `GitHub Actions`  `Power Systems Modeling`  `Compliance Automation`
+### 🚀 Featured Projects
+
+- **AICoPilot/** — AI compliance and proposal co-pilot *(prompting + Python automation)*  
+- **WeeklyStatusGem/** — Generates weekly status reports from calendar exports  
+- **Compliance-Automation/** — Templates for policy mapping, RACI, and SOC-style controls  
+- **PowerOptimization/** — Energy efficiency & reliability analysis for telecom networks  
+- **AI-ML-Labs/** — ML labs & experiments (expanding during GWU D.Eng. program)
 
 ---
 
-### 🌱 Current Projects
-- [**Engineering & AI Portfolio**](https://github.com/devpatram/engineering-ai-portfolio) — code + diagrams + compliance templates  
-- [**AICoPilot**](https://github.com/devpatram/engineering-ai-portfolio/tree/main/AICoPilot) — AI proposal assistant scaffold  
-- [**WeeklyStatusGem**](https://github.com/devpatram/engineering-ai-portfolio/tree/main/WeeklyStatusGem) — calendar to status automation  
+### 💼 What Hiring Teams Appreciate
+| Focus | Description |
+|-------|--------------|
+| **Evidence** | Working code, documentation, and diagrams demonstrating real results |
+| **Clarity** | Well-defined problems, architectures, and concise READMEs |
+| **Impact** | Performance gains, power savings, or compliance automation outcomes |
+| **Communication** | Clear documentation that conveys *why, how,* and *what* |
 
 ---
 
-### 💬 Let’s Connect
-📧 [devpatram@gmail.com](mailto:devpatram@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/dev-patram)  
-📍 Lyman, South Carolina  
+### ⚙️ Languages & Tools
+Python • MATLAB • AutoCAD • TensorFlow • Keras • Scikit-learn • GitHub Actions • Draw.io • Power Systems Design
 
 ---
 
-⭐ **I’m passionate about making complex systems smarter, safer, and more efficient — bridging power engineering with AI-driven innovation.**
+*Last updated: November 2025*
 
