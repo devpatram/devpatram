@@ -15,6 +15,16 @@ This portfolio highlights my work bridging **telecom-power systems, automation, 
 
 ---
 
+### ⚡ AI & Engineering Focus Areas
+
+- **AI-Driven Automation:** Designing intelligent assistants that streamline compliance, reporting, and engineering workflows.  
+- **Telecom & Power Systems Optimization:** Building energy-efficient network designs and reliability models for nationwide deployments.  
+- **Data Engineering & Machine Learning:** Developing Python pipelines, ML models, and transformer-based analytics for predictive insights.  
+- **Systems Integration & Scalability:** Applying AI principles to real-world engineering systems with focus on sustainability and resilience.  
+- **Leadership & Technical Enablement:** 20 years of telecom engineering experience mentoring cross-functional technical teams.
+
+---
+
 ### 🚀 Featured Projects
 
 - **AICoPilot/** — AI compliance and proposal co-pilot *(prompting + Python automation)*  
