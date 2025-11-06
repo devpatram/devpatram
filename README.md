@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devpatram/devpatram/main/Banner.png" alt="Dev V. Patram — Engineering + AI Innovation" width="100%">
+</p>
+
 # 👋 Hi, I'm Dev V. Patram  
 ### Senior Electrical & Solutions Engineer | Doctor of Engineering (AI & Machine Learning) Candidate | 20 yrs in Telecom & Power Systems | Building Intelligent Engineering Solutions
 
